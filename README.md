@@ -4,9 +4,13 @@
 Tecnología en Desarrollo de Sistemas Informáticos
 
 🗓️ II Semestre 2026
+
 👨‍🏫 Profesor: Mag. Carlos Adolfo Beltrán Castro
+
 👨‍🎓 Estudiantes:
+
 - Deivinson Elias Garcia Paez - C.C. 1005326925
+  
 - Yeison Fabian Hernández Martinez - C.C. 1005333487
 
 ![Pantalla inicial](img/menu.png)
