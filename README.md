@@ -1,6 +1,7 @@
 # Sistema de citas para un hospital (HospitalCitas)
 
 **Proyecto del Taller de Panel Administrativo**
+
 Tecnología en Desarrollo de Sistemas Informáticos
 
 🗓️ II Semestre 2026
